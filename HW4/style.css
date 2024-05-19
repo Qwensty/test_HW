@@ -1,0 +1,17 @@
+
+    .bg_color{ 
+        background-color: blanchedalmond; 
+    }
+    .small {
+        font-size:xx-small;
+    }
+    .normal {
+        font-size:x-large;
+    }
+    .large {
+        font-size:xx-large;
+    }
+
+    .bg_gradient{
+        background: linear-gradient(to top, rgb(49, 200, 238), rgb(124, 199, 243));
+    }
